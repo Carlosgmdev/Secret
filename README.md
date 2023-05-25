@@ -37,4 +37,4 @@ Y este seguiria funcionando.
 -Dark mode.
 
 <a href="https://carlosgmdev.github.io/Secret/">Visualiza mi repositorio</a>
-<img src="assets/frame.png">
+<img src="assets/qr.png">
