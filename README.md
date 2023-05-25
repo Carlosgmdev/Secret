@@ -33,5 +33,8 @@ const dictionary = {
 Y este seguiria funcionando.
 
 -El proyecto previene automaticamente el ingreso de mayusculas.
+-Mensajes emergentes.
+-Dark mode.
 
 <a href="https://carlosgmdev.github.io/Secret/">Visualiza mi repositorio</a>
+<img src="assets/frame.jpg">
