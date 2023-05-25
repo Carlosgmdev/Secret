@@ -39,3 +39,5 @@ Y este seguiria funcionando.
 <a href="https://carlosgmdev.github.io/Secret/">Visualiza mi repositorio</a>
 <br>
 <img src="assets/qr.png" width="200px">
+
+Gracias.
